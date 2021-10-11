@@ -1,0 +1,7 @@
+1:Lapis:10
+2:Caneta:20
+3:Borracha:5
+4:Regua:15
+5:Tesoura:10
+6:Lapiseira:20
+7:Calculadora:114
